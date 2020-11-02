@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/messaging_frontend/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/messaging_frontend/static/js/main.248fd267.chunk.js",
-    "main.js.map": "/messaging_frontend/static/js/main.248fd267.chunk.js.map",
-    "runtime-main.js": "/messaging_frontend/static/js/runtime-main.3317bd5f.js",
-    "runtime-main.js.map": "/messaging_frontend/static/js/runtime-main.3317bd5f.js.map",
-    "static/js/2.88792e23.chunk.js": "/messaging_frontend/static/js/2.88792e23.chunk.js",
-    "static/js/2.88792e23.chunk.js.map": "/messaging_frontend/static/js/2.88792e23.chunk.js.map",
-    "static/js/3.1af5dbe6.chunk.js": "/messaging_frontend/static/js/3.1af5dbe6.chunk.js",
-    "static/js/3.1af5dbe6.chunk.js.map": "/messaging_frontend/static/js/3.1af5dbe6.chunk.js.map",
+    "main.js": "/messaging_frontend/static/js/main.a5202f5a.chunk.js",
+    "main.js.map": "/messaging_frontend/static/js/main.a5202f5a.chunk.js.map",
+    "runtime-main.js": "/messaging_frontend/static/js/runtime-main.abaf959f.js",
+    "runtime-main.js.map": "/messaging_frontend/static/js/runtime-main.abaf959f.js.map",
+    "static/css/2.ec02d681.chunk.css": "/messaging_frontend/static/css/2.ec02d681.chunk.css",
+    "static/js/2.80b2e4d5.chunk.js": "/messaging_frontend/static/js/2.80b2e4d5.chunk.js",
+    "static/js/2.80b2e4d5.chunk.js.map": "/messaging_frontend/static/js/2.80b2e4d5.chunk.js.map",
+    "static/js/3.c5a1b457.chunk.js": "/messaging_frontend/static/js/3.c5a1b457.chunk.js",
+    "static/js/3.c5a1b457.chunk.js.map": "/messaging_frontend/static/js/3.c5a1b457.chunk.js.map",
+    "static/js/4.2d71a446.chunk.js": "/messaging_frontend/static/js/4.2d71a446.chunk.js",
+    "static/js/4.2d71a446.chunk.js.map": "/messaging_frontend/static/js/4.2d71a446.chunk.js.map",
     "index.html": "/messaging_frontend/index.html",
-    "static/css/main.ab7136cd.chunk.css.map": "/messaging_frontend/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.88792e23.chunk.js.LICENSE.txt": "/messaging_frontend/static/js/2.88792e23.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/messaging_frontend/static/media/logo.103b5fa1.svg"
+    "static/css/2.ec02d681.chunk.css.map": "/messaging_frontend/static/css/2.ec02d681.chunk.css.map",
+    "static/js/2.80b2e4d5.chunk.js.LICENSE.txt": "/messaging_frontend/static/js/2.80b2e4d5.chunk.js.LICENSE.txt",
+    "static/js/3.c5a1b457.chunk.js.LICENSE.txt": "/messaging_frontend/static/js/3.c5a1b457.chunk.js.LICENSE.txt",
+    "static/js/main.a5202f5a.chunk.js.LICENSE.txt": "/messaging_frontend/static/js/main.a5202f5a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3317bd5f.js",
-    "static/js/2.88792e23.chunk.js",
-    "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.248fd267.chunk.js"
+    "static/js/runtime-main.abaf959f.js",
+    "static/js/3.c5a1b457.chunk.js",
+    "static/js/main.a5202f5a.chunk.js"
   ]
 }
